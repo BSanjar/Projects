@@ -1,0 +1,10 @@
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\obj\Debug\NewtonMethodForOptimum.csprojResolveAssemblyReference.cache
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\obj\Debug\NewtonMethodForOptimum.Form1.resources
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\obj\Debug\NewtonMethodForOptimum.Properties.Resources.resources
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\obj\Debug\NewtonMethodForOptimum.csproj.GenerateResource.cache
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\bin\Debug\NewtonMethodForOptimum.exe.config
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\bin\Debug\NewtonMethodForOptimum.exe
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\bin\Debug\NewtonMethodForOptimum.pdb
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\bin\Debug\Extreme.Numerics.Net40.dll
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\obj\Debug\NewtonMethodForOptimum.exe
+D:\lessons\4-курс\РАТПО\Лабы\NewtonForOptimum\NewtonMethodForOptimum\NewtonMethodForOptimum\obj\Debug\NewtonMethodForOptimum.pdb

@@ -1,0 +1,12 @@
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.csprojResolveAssemblyReference.cache
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.Form1.resources
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.Properties.Resources.resources
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.csproj.GenerateResource.cache
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.csproj.CoreCompileInputs.cache
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\bin\Debug\GSSM.exe.config
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\bin\Debug\GSSM.exe
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\bin\Debug\GSSM.pdb
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\bin\Debug\Extreme.Numerics.Net40.dll
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.csproj.CopyComplete
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.exe
+D:\lessons\4-курс\РАТПО\Лабы\GSM\GSSM\GSSM\obj\Debug\GSSM.pdb
